@@ -1,6 +1,6 @@
 {
   "name": "fj-filpall",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Given a function, returns a new function with all it's arguments flipped.",
   "main": "index.js",
   "scripts": {
