@@ -1,6 +1,6 @@
 # fj-filpall
 
-[![Build Status](https://travis-ci.org/fp-js/fj-filpall.svg)](https://travis-ci.org/fp-js/fj-filpall) [![npm version](https://badge.fury.io/js/fj-filpall.svg)](http://badge.fury.io/js/fj-filpall)
+[![Build Status](https://travis-ci.org/fp-js/fj-flipAll.svg?branch=master)](https://travis-ci.org/fp-js/fj-flipAll) [![npm version](https://badge.fury.io/js/fj-filpall.svg)](http://badge.fury.io/js/fj-filpall)
 > Given a function, returns a new function with all it's arguments flipped.
 
 ## Installation
